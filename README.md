@@ -259,3 +259,13 @@ recurrent neural networks on sequence modeling,” CoRR, vol. abs/1412.3555, 201
 # Thesis Recommendation Sheet
    
    <img src="https://user-images.githubusercontent.com/26309477/120083696-2cb5f500-c0e8-11eb-9a48-b33c71b94ad9.jpg" width="400" />
+   
+# Publications
+
+<p>
+
+<b>Text summary evaluation based on interpretable semantic textual similarity </b> <br> 
+Majumder, G., Rajput, V., Pakray, P. et al. . Multimed Tools Appl (2022). <br> 
+https://doi.org/10.1007/s11042-022-14082-6
+
+</p>
